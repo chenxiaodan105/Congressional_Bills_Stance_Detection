@@ -56,6 +56,7 @@ def remove_tokens_with_frequency(text,count):
 * smote 
 * balanced ensemble method using SVM or decision tree as base model
 * [reference](https://imbalanced-learn.org/en/stable/ensemble.html)
+* [reference](https://statistics.berkeley.edu/sites/default/files/tech-reports/666.pdf)
 
 
 ## Methods
