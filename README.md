@@ -11,6 +11,10 @@
 
 [5. Grid Search](#Grid-Search)
 
+## How to Use
+
+
+
 
 ## Text Preprocessing
 * tokenization
@@ -18,6 +22,7 @@
 * remove words that are not purely alphabetic words
 * remove stopwords
 * remove all words that have a length <= 1 characters (this number can be changed)
+* limit tokens frequency
 
 ## Imbalance Data Handling
 * smote 
