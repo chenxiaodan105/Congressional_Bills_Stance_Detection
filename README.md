@@ -1,15 +1,15 @@
 # Xiaodan's Directory
 
 ## Contents
-[0. How to Use](#How-to-Use)
+[1. How to Use](#How-to-Use)
 
-[1. Text Preprocessing](#Text-Preprocessing)
+[2. Text Preprocessing](#Text-Preprocessing)
 
-[2. Imbalance Data Handling](#Imbalance-Data-Handling)
+[3. Imbalance Data Handling](#Imbalance-Data-Handling)
 
-[3. Methods](#Methods)
+[4. Methods](#Methods)
 
-[4. Grid Search](#Grid-Search)
+[5. Grid Search](#Grid-Search)
 
 
 ## Text Preprocessing
@@ -29,16 +29,16 @@
 ## Methods
 * stance detection
 
-| method |  F1 score(majority) | F1 score(minority) |
+| method |  F1 score(have stance) | F1 score(no stance) |
 | ----------- | ----------- | ----------- | 
-| tfidf + lr |  |
-| tfidf + random forest | |
-| tfidf + BalancedRandomForestClassifier | |
-| tfidf + WeightedBalancedRandomForestClassifier | |
-| relabeling model + tfidf + lr  | |
-| relabeling model + tfidf + random forest | |
-| Glove + LSTM | |
-| Glove + CNN + LSTM | |
+| tfidf + lr | 0.21 | 0.85 |
+| tfidf + random forest |0.16 | 0.96 |
+| tfidf + BalancedRandomForestClassifier |0.22 | 0.83|
+| tfidf + WeightedBalancedRandomForestClassifier | 0.19|0.78|
+| relabeling model + tfidf + lr  | 0.80| 0.83 |
+| relabeling model + tfidf + random forest |0.88|0.91|
+| Glove + LSTM |0.93 | 0.93 |
+| Glove + CNN + LSTM | 0.93 | 0.93 |
 
 
 ## Grid Search
