@@ -1,6 +1,8 @@
 # Xiaodan's Directory
 
 ## Contents
+[0. How to Use](#How-to-Use)
+
 [1. Text Preprocessing](#Text-Preprocessing)
 
 [2. Imbalance Data Handling](#Imbalance-Data-Handling)
@@ -12,45 +14,10 @@
 
 ## Text Preprocessing
 * tokenization
-```
-def tokenize_text(text):
-    tokens = word_tokenize(text.lower())
-    tokens = [token.strip() for token in tokens]
-    return tokens
-```
 * remove punctuation
-```
-def remove_special_characters(text):
-    tokens = tokenize_text(text)
-    pattern = re.compile('[{}]'.format(re.escape(string.punctuation)))
-    filtered_tokens = filter(None, [pattern.sub('', token) for token in tokens])
-    filtered_text = ' '.join(filtered_tokens)
-    return filtered_text
-```
 * remove words that are not purely alphabetic words
-```
-def remove_non_alphabetic_characters(text):
-    tokens = tokenize_text(text)
-    tokens = [w for w in tokens if w.isalpha()]
-    return ' '.join(tokens)
-```
 * remove stopwords
-```
-def remove_stopwords(text):
-    stop = list(set(stopwords.words('english')))
-    tokens = tokenize_text(text)
-    filtered_tokens = [token for token in tokens if token not in stop]
-    filtered_text = ' '.join(filtered_tokens)
-    return filtered_text
-```
 * remove all words that have a length <= 1 characters (this number can be changed)
-```
-def remove_tokens_with_frequency(text,count):
-    tokens = tokenize_text(text)
-    tokens = [w for w in tokens if len(w)>count]
-    return ' '.join(tokens)
-```
-* stemming and lemmatization
 
 ## Imbalance Data Handling
 * smote 
