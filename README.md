@@ -1,7 +1,9 @@
 # Xiaodan's Directory
 
 ## Contents
-[1. How to Use](#How-to-Use)
+[0. How to Use](#How-to-Use)
+
+[1. Introduction](#Introduction)
 
 [2. Text Preprocessing](#Text-Preprocessing)
 
@@ -13,7 +15,7 @@
 
 ## How to Use
 
-
+## Introduction
 
 
 ## Text Preprocessing
