@@ -16,10 +16,10 @@ In this project, NLP method is used to do the prediction based on 2 sessions of 
 | ----------- | ----------- | ----------- | 
 | data_preprocessing.py | text preprocessing | tokenization, split data, remove stop words, remove special words and so on |
 | relabel_model.py | relabel data using regular expression | relabel speeches by detecting key words |
-| DL_Models.ipython | Deep Learning Models | two models |
-| DL_Models_with_F1_score.ipython | Deep learning Models with the metric F1 score||
-| ML_Models.ipython  | ML Models and Imbalance data Handling| six models |
-| cutoff_analysiss_for_speech_length.ipython |EDA|EDA|
+| DL_Models.ipynb | Deep Learning Models | two models |
+| DL_Models_with_F1_score.ipynb | Deep learning Models with the metric F1 score||
+| ML_Models.ipynb  | ML Models and Imbalance data Handling| six models |
+| cutoff_analysiss_for_speech_length.ipynb |EDA|EDA|
 
 
 
