@@ -22,7 +22,7 @@
 | ----------- | ----------- | ----------- | 
 | data_preprocessing.py | text preprocessing | tokenization, split data, remove stop words, remove special words and so on |
 | relabel_model.py | relabel data using regular expression | relabel speeches by detecting key words |
-| DL_Models.ipython | Deep Learning Models | here you should read the pretrained glove file and import the module 'relabel_model' from relabel_model.py |
+| DL_Models.ipython | Deep Learning Models | two models |
 | DL_Models_with_F1_score.ipython | Deep learning Models with the metric F1 score||
 | Machine_Learning_Models_and_Imbalance_Data_Handling.ipython  | ML Models and Imbalance data Handling| six models here |
 | data_relabelling_and_wrangling.ipython |EDA|EDA|
