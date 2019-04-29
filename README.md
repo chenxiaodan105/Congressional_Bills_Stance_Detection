@@ -5,13 +5,7 @@
 
 [1. Introduction](#Introduction)
 
-Companies are sensitive to political policies. However, it could bring them a lot of benefits, for example, the fund and support from the government, if they could catch up with political trends beforehand. 
-
-Stance detection, also known as holding attitudes over things, could be the key to political trends.
-
-In this project, NLP method is used to do the prediction based on 2 sessions of congressional bills and transcripts.
-
-Just explore it and have fun !
+Companies are sensitive to political policies. However, it could bring them a lot of benefits, for example, the fund and support from the government, if they could catch up with political trends beforehand. Stance detection, also known as holding attitudes over things, could be the key to political trends.In this project, NLP method is used to do the prediction based on 2 sessions of congressional bills and transcripts.Just explore it and have fun !
 
 [2. Text Preprocessing](#Text-Preprocessing)
 
