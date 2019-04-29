@@ -14,6 +14,9 @@
 [5. Grid Search](#Grid-Search)
 
 ## How to Use
+Data: [link](https://drive.google.com/open?id=1wChMSMjrJ9Cbb8wzN3hU8X3fxzA_SakT)
+GloVe file: [link](https://drive.google.com/open?id=1Ez9jDgCfU4Nar2wobzic79UAGFLnzmHF)
+
 
 ## Introduction
 
