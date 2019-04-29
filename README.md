@@ -2,7 +2,9 @@
 
 ## Introduction
 
-Companies are sensitive to political policies. However, it could bring them a lot of benefits, for example, the fund and support from the government, if they could catch up with political trends beforehand. Stance detection, also known as holding attitudes over things, could be the key to political trends.In this project, NLP method is used to do the prediction based on 2 sessions of congressional bills and transcripts.Just explore it and have fun !
+**Stance detection** is the extraction of a people’s reaction to a claim made by a primary actor. It is a core part of a set of approaches to capture political trends. Companies are sensitive to political policies. It could bring them a lot of benefits, such as the fund, the support from the government, if they could catch up with political trends beforehand.
+
+In this project, NLP method is used to do the prediction based on 2 sessions of congressional bills and transcripts.Just explore it and have fun !
 
 ## How to Use
 * The data and pretrained GloVe file's size is beyond the GitHub's limit, so you could download them through links below
@@ -16,8 +18,8 @@ Companies are sensitive to political policies. However, it could bring them a lo
 | relabel_model.py | relabel data using regular expression | relabel speeches by detecting key words |
 | DL_Models.ipython | Deep Learning Models | two models |
 | DL_Models_with_F1_score.ipython | Deep learning Models with the metric F1 score||
-| ML_Models_with_Imbalance_Data_Handling.ipython  | ML Models and Imbalance data Handling| six models |
-| data_relabelling_and_wrangling.ipython |EDA|EDA|
+| ML_Models.ipython  | ML Models and Imbalance data Handling| six models |
+| cutoff_analysiss_for_speech_length.ipython |EDA|EDA|
 
 
 
