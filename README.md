@@ -4,6 +4,7 @@
 [0. How to Use](#How-to-Use)
 
 [1. Introduction](#Introduction)
+
 Companies are sensitive to political policies. However, it could bring them a lot of benefits, for example, the fund and support from the government, if they could catch up with political trends beforehand. 
 
 Stance detection, also known as holding attitudes over things, could be the key to political trends.
