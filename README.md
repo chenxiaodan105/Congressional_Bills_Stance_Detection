@@ -24,7 +24,7 @@
 | relabel_model.py | relabel data using regular expression | relabel speeches by detecting key words |
 | DL_Models.ipython | Deep Learning Models | two models |
 | DL_Models_with_F1_score.ipython | Deep learning Models with the metric F1 score||
-| Machine_Learning_Models_and_Imbalance_Data_Handling.ipython  | ML Models and Imbalance data Handling| six models here |
+| ML_Models_with_Imbalance_Data_Handling.ipython  | ML Models and Imbalance data Handling| six models |
 | data_relabelling_and_wrangling.ipython |EDA|EDA|
 
 ## Introduction
