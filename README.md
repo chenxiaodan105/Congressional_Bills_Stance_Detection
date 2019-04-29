@@ -44,8 +44,8 @@
 | tfidf + WeightedBalancedRandomForestClassifier | 0.19|0.78|
 | relabeling model + tfidf + lr  | 0.80| 0.83 |
 | relabeling model + tfidf + random forest |0.88|0.91|
-| Glove + LSTM |0.93 | 0.93 |
-| Glove + CNN + LSTM | 0.93 | 0.93 |
+| Glove + LSTM |0.86 | 0.96 |
+| Glove + CNN + LSTM | 0.86| 0.95 |
 
 
 ## Grid Search
