@@ -1,5 +1,3 @@
-# Xiaodan's Directory
-
 ## Contents
 [0. How to Use](#How-to-Use)
 
