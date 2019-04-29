@@ -9,7 +9,7 @@
 
 [3. Imbalance Data Handling](#Imbalance-Data-Handling)
 
-[4. Methods](#Methods)
+[4. Methods and Results](#Methods-and-Results)
 
 [5. Grid Search](#Grid-Search)
 
@@ -48,7 +48,7 @@ Companies are sensitive to political policies. However, it could bring them a lo
 * [paper](https://statistics.berkeley.edu/sites/default/files/tech-reports/666.pdf)
 
 
-## Methods
+## Methods and Results
 * stance detection
 
 | method |  F1 score(have stance) | F1 score(no stance) |
