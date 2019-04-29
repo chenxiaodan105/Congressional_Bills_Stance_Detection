@@ -1,4 +1,4 @@
-## Contents
+# Contents
 [0. How to Use](#How-to-Use)
 
 [1. Introduction](#Introduction)
