@@ -1,7 +1,4 @@
 # Contents
-[Introduction](#Introduction)
-
-[How to Use](#How-to-Use)
 
 ## Introduction
 
