@@ -6,7 +6,7 @@
 
 In this project, NLP method is used to do the prediction based on 2 sessions of congressional bills and transcripts.Just explore it and have fun !
 
-* github.io address : [Website](chenxiaodan105.github.io/ds-project/)
+* github.io address : [Website](https://chenxiaodan105.github.io/ds-project/)
 
 ## How to Use
 * The data and pretrained GloVe file's size is beyond the GitHub's limit, so you could **`download`** them through links below
